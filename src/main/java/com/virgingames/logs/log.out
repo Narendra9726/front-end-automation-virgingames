@@ -1,0 +1,8 @@
+2024-02-01 16:02:758 INFO  HomePage :37 - Verifying Homepage Url
+2024-02-01 16:02:42 INFO  HomePage :52 - Accepting cookies [[ChromeDriver: chrome on windows (c2d5ac089f4b8316c4ff2b91eafd00e3)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 16:02:998 INFO  HomePage :56 - Clicking on All Games : [[ChromeDriver: chrome on windows (c2d5ac089f4b8316c4ff2b91eafd00e3)] -> link text: All Games]
+2024-02-01 16:02:122 INFO  HomePage :60 - Getting Online Slots text : [[ChromeDriver: chrome on windows (c2d5ac089f4b8316c4ff2b91eafd00e3)] -> xpath: //h2[1]]
+2024-02-01 16:02:467 INFO  HomePage :37 - Verifying Homepage Url
+2024-02-01 16:02:761 INFO  HomePage :52 - Accepting cookies [[ChromeDriver: chrome on windows (4ddb410dc9e16d96d3fdd9bb1ed2874e)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 16:02:117 INFO  HomePage :56 - Clicking on All Games : [[ChromeDriver: chrome on windows (4ddb410dc9e16d96d3fdd9bb1ed2874e)] -> link text: All Games]
+2024-02-01 16:02:301 INFO  HomePage :60 - Getting Online Slots text : [[ChromeDriver: chrome on windows (4ddb410dc9e16d96d3fdd9bb1ed2874e)] -> xpath: //h2[1]]
