@@ -9,9 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.time.Duration;
 
-/**
- * Created by Smart Tester
- */
+
 public class ManageBrowser {
 
     public static WebDriver driver;

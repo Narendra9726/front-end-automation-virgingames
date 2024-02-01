@@ -3,9 +3,7 @@ package com.virgingames.propertyreader;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-/**
- * Created by Smart Tester
- */
+
 public class PropertyReader {
     /*
     Rules for implementing singleton design pattern
